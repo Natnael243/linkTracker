@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name":"Adey link tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon": "adey2.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
